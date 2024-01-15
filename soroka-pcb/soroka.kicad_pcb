@@ -11176,7 +11176,7 @@
       )
     )
   )
-  (gr_text "MSU on this side!" (at 376.36875 65.42125 90) (layer "B.SilkS") (tstamp 0273d61c-133e-413e-be39-c6f96f607ef6)
+  (gr_text "MCU on this side!" (at 376.36875 65.42125 90) (layer "B.SilkS") (tstamp 0273d61c-133e-413e-be39-c6f96f607ef6)
     (effects (font (size 1 1) (thickness 0.15) italic) (justify left bottom mirror))
   )
   (gr_text "kapee!" (at 77.93875 96.00125 90) (layer "B.Mask" knockout) (tstamp 47e6f5b5-3354-4c2f-936b-afbb4dcdeee9)
@@ -12614,7 +12614,6 @@
     (members
       2b125c96-5938-42af-b563-25285dc0173c
       7822fc7b-0ddd-4789-913a-2ae969f25fa8
-      f09475d9-3ac7-4f5a-a34c-41e4d01c9abd
     )
   )
   (group "" (id 39780033-25ce-41c3-867d-bb3eb94f8491)
