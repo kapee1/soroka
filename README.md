@@ -26,7 +26,7 @@
 * 6-degree case
 * Split-case for printing on smaller printers
 
-BOM
+BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | Part     | Quantity |  Link    |
 |----------|----------|----------|
 | Soroka PCB  | 1   |  - |
