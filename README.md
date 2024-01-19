@@ -25,6 +25,8 @@
 ### TODO:
 * 6-degree case
 * Split-case for printing on smaller printers
+* Create a build guide
+* Add a VIAL firmware after testing
 
 BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | Part     | Quantity |  Link    |
