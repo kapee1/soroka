@@ -35,7 +35,7 @@ BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | Soroka Plate (Optional)  |  1   |  - |
 | Soroka Case | 1   |  - |
 | Soroka Panel  |  1   |  - |
-| RP2040-Zero  | 1   |  - |
+| RP2040-Zero  | 1   |  [Aliexpress](https://aliexpress.ru/item/1005004281549886.html) |
 | 1N4148 SOD-123 Diode T4 1206  | 50  |  [Aliexpress](https://aliexpress.ru/item/1005005271390029.html) |
 | EC-11 Encoder (optional)  |  1   |  - |
 | Round silicon feets 8x8x0.5| 4  |  - |
