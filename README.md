@@ -1,6 +1,7 @@
 # soroka - DIY-Friendly 40% keyboard
 
-![image](https://github.com/kapee1/soroka/assets/98476799/aaaffb00-3ea0-427a-adfa-39a69607251a)
+![image](https://github.com/kapee1/soroka/assets/98476799/ececdb4e-0b08-4dd1-9bea-3f9ae97a6a2c)
+
 
 
 ### Main features:
@@ -40,5 +41,5 @@ BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | EC-11 Encoder (optional)  |  1   |  - |
 | Round silicon feets 8x8x0.5| 4  |  - |
 | M2 x 4mm Screws  | 15  |  - |
-| M2 Inserts 3mm (or 2.5mm) (OD3.2) | 7   |  [Aliexpress](https://aliexpress.ru/item/1005003582355741.htm) |
-| Female-Female Standoffs 10mm (or 9mm)  | 4  |  [Aliexpress](https://aliexpress.ru/item/1005004469963266.html) |
+| M2 Inserts 3mm (OD3.2) | 7   |  [Aliexpress](https://aliexpress.ru/item/1005003582355741.htm) |
+| Female-Female Standoffs 10mm | 4  |  [Aliexpress](https://aliexpress.ru/item/1005004469963266.html) |
