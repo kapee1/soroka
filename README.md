@@ -24,7 +24,7 @@
 * Hard to pull out a pcb-sandwich after installing panel
 
 ### TODO:
-* 6-degree case
+* -6-degree case- UNTESTED
 * Split-case for printing on smaller printers
 * Create a build guide
 
