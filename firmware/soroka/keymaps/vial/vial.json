@@ -9,9 +9,9 @@
             "Split Right Shift",
             [
                 "Bottom Row",
-                "7u spacebar",
-                "2,25 - 2,75 spacebars",
-                "3u spacebars"
+                "7u Spacebar",
+                "2,25u + 2,75u Spacebars",
+                "3u + 3u Spacebars"
             ]
         ],
         "keymap":[
