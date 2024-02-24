@@ -1,7 +1,7 @@
 # soroka - DIY-Friendly 40% keyboard
 
+![PXL_20240224_121506997](https://github.com/kapee1/soroka/assets/98476799/0cf15a92-e7f0-4c72-99ed-f4b9440a17de)
 ![image](https://github.com/kapee1/soroka/assets/98476799/ececdb4e-0b08-4dd1-9bea-3f9ae97a6a2c)
-
 
 
 ### Main features:
@@ -42,3 +42,10 @@ BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | M2 x 4mm Screws  | 15  |  [Aliexpress](https://aliexpress.ru/item/4000896301219.html) |
 | M2 Inserts 3mm (OD3.2) | 7   |  [Aliexpress](https://aliexpress.ru/item/1005003582355741.htm) |
 | Female-Female Standoffs 10mm | 4  |  [Aliexpress](https://aliexpress.ru/item/1005004469963266.html) |
+
+
+### Some photos:
+![PXL_20240224_121542852](https://github.com/kapee1/soroka/assets/98476799/745fef3c-ed11-43b9-aa7d-64bf472f23ea)
+![PXL_20240224_121342817](https://github.com/kapee1/soroka/assets/98476799/ff116165-ce3a-4090-88eb-95a8b9ee945a)
+![PXL_20240224_121622301](https://github.com/kapee1/soroka/assets/98476799/9beebc88-c46e-4030-b024-90065a49f2da)
+
