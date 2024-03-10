@@ -1,8 +1,9 @@
 # soroka - DIY-Friendly 40% keyboard
 
-![PXL_20240224_121506997](https://github.com/kapee1/soroka/assets/98476799/0cf15a92-e7f0-4c72-99ed-f4b9440a17de)
-![image](https://github.com/kapee1/soroka/assets/98476799/ececdb4e-0b08-4dd1-9bea-3f9ae97a6a2c)
+> Important: Currently working on version v2 with many minor fixes.
+It won't be compatible with v1, but I'll keep all files for v1.
 
+![PXL_20240224_121506997](https://github.com/kapee1/soroka/assets/98476799/0cf15a92-e7f0-4c72-99ed-f4b9440a17de)
 
 ### Main features:
 
@@ -20,13 +21,7 @@
 ![image](https://github.com/kapee1/soroka/assets/98476799/303a2640-8ece-4c63-8b4c-6768845c624c)
 
 ### Known issues:
-* Hole for USB port should be bigger to prevent any interference
-* Hard to pull out a pcb-sandwich after installing panel
-
-### TODO:
-* ~~6-degree case~~ Done, untested
-* Split-case for printing on smaller printers
-* Create a build guide
+* Hole for USB port should be bigger to prevent any interference (fixed in v2)
 
 BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | Part     | Quantity |  Link    |
