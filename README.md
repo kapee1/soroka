@@ -22,6 +22,9 @@ It won't be compatible with v1, but I'll keep all files for v1.
 
 ### Known issues:
 * Hole for USB port should be bigger to prevent any interference (fixed in v2)
+* Diodes on bottom row touches case mount.. (fixed in v2)
+* The screw holes in plate are inconvenient. Replaced by slots in v2
+
 
 BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | Part     | Quantity |  Link    |
