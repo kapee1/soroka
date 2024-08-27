@@ -1,7 +1,5 @@
 # soroka - DIY-Friendly 40% keyboard
 
-> Important: Currently working on version v2 with many minor fixes.
-It won't be compatible with v1, but I'll keep all files for v1.
 
 ![PXL_20240224_121506997](https://github.com/kapee1/soroka/assets/98476799/0cf15a92-e7f0-4c72-99ed-f4b9440a17de)
 

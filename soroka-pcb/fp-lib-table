@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "soroka-lib")(type "KiCad")(uri "${KIPRJMOD}/soroka-lib.pretty")(options "")(descr ""))
-)
