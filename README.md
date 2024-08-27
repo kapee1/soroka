@@ -18,8 +18,6 @@
 
 ![image](https://github.com/kapee1/soroka/assets/98476799/303a2640-8ece-4c63-8b4c-6768845c624c)
 
-### Known issues:
-* Hole for USB port should be bigger to prevent any interference (fixed in v2)
 
 BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | Part     | Quantity |  Link    |
@@ -37,7 +35,7 @@ BOM (and iBOM in soroka-pcb/bom/ibom.html)
 | Female-Female Standoffs 10mm | 4  |  [Aliexpress](https://aliexpress.ru/item/1005004469963266.html) |
 
 
-### Some photos:
+### Some photos of v1:
 ![PXL_20240224_121542852](https://github.com/kapee1/soroka/assets/98476799/745fef3c-ed11-43b9-aa7d-64bf472f23ea)
 ![PXL_20240224_121342817](https://github.com/kapee1/soroka/assets/98476799/ff116165-ce3a-4090-88eb-95a8b9ee945a)
 ![PXL_20240224_121622301](https://github.com/kapee1/soroka/assets/98476799/9beebc88-c46e-4030-b024-90065a49f2da)
