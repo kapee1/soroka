@@ -4,8 +4,6 @@
 
 
 
-English version will be available later
-
 ### Main features:
 
 * Easy to build. Great for soldering practice.
