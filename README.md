@@ -2,7 +2,7 @@
 
 ![PXL_20240825_092250000 MP](https://github.com/user-attachments/assets/308018c5-4d0c-44a2-8635-dc20167e0835)
 
-[Build guide HERE (RU)](https://telegra.ph/Soroka-v2-Build-Guide-08-26)
+
 
 English version will be available later
 
@@ -30,13 +30,13 @@ BOM (Links might be broken)
 | Soroka Case | 1   |  - |
 | Soroka Panel  |  1   |  - |
 | Soroka Spacer  |  1   |  - |
-| RP2040-Zero  | 1   |  [Aliexpress](https://aliexpress.ru/item/1005004281549886.html) |
-| 1N4148w SOD-123 Diodes  | 50  |  [Aliexpress](https://aliexpress.ru/item/1005005271390029.html) |
+| RP2040-Zero  | 1   |  |
+| 1N4148w SOD-123 Diodes  | 50  |  |
 | Panasonic EVQWGD001 (optional)  |  1   |  - |
-| Oval feets 22x4x1.5mm | 4  |  [Aliexpress](https://aliexpress.ru/item/1005002019084238.html) |
-| Silicone washers 2x5x1 | 9 |[Aliexpress](https://aliexpress.ru/item/1005005813316648.html)|
-| M2 x 4mm Screws  | 13  |  [Aliexpress](https://aliexpress.ru/item/4000896301219.html) |
-| M2 Inserts 3mm (OD3.2) | 13   |  [Aliexpress](https://aliexpress.ru/item/1005003582355741.htm) |
+| Oval feets 22x4x1.5mm | 4  |  |
+| Silicone washers 2x5x1 | 9 ||
+| M2 x 4mm Screws  | 13  |  |
+| M2 Inserts 3mm (OD3.2) | 13   |  |
 | Round magnets 3x1 mm | 8  | - |
 
 ### Some photos of v2 in milled PC case:
