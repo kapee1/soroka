@@ -2,7 +2,7 @@
 
 ![PXL_20240825_092250000 MP](https://github.com/user-attachments/assets/308018c5-4d0c-44a2-8635-dc20167e0835)
 
-
+### Parts for v1 and v2 are not compatible!!
 
 ### Main features:
 
