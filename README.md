@@ -31,7 +31,7 @@ __Parts for v1 and v2 are not compatible!__
 | Soroka Case                   | 1   | 
 | Soroka Panel                  | 1   | 
 | Soroka Spacer                 | 1   | 
-| RP2040-Zero                   | 1   | 
+| RP2040-Zero (unsoldered pins) | 1   | 
 | 1N4148w SOD-123 Diodes        | 50  | 
 | Panasonic EVQWGD001 (optional)| 1   |  
 | Oval feets 22x4x1.5mm         | 4   |  
