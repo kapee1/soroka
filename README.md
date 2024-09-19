@@ -21,8 +21,7 @@ __Parts for v1 and v2 are not compatible!__
 ![image](https://github.com/kapee1/soroka/assets/98476799/303a2640-8ece-4c63-8b4c-6768845c624c)
 
 ### Sizes:
-![image](https://github.com/kapee1/soroka/blob/main/info/sizes.png)
-
+![sizes](https://github.com/user-attachments/assets/43c70d04-38ef-4c08-8f5c-f754aee75991)
 
 ## BOM:
 | Part     | Quantity |
