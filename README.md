@@ -2,7 +2,7 @@
 
 ![PXL_20240908_092151507](https://github.com/user-attachments/assets/d3ecc987-b74d-41c7-9bb6-479619c4c737)
 
-### Build guide for v2 [RU] | [EN soon]
+### Build guide [SOON]
 
 __Parts for v1 and v2 are not compatible!__
 
