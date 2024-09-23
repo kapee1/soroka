@@ -2,7 +2,7 @@
 
 ![PXL_20240908_092151507](https://github.com/user-attachments/assets/d3ecc987-b74d-41c7-9bb6-479619c4c737)
 
-### Build guide [SOON]
+### Build guide [[EN]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BEN%5D.md) | [[RU]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BRU%5D.md)
 
 __Parts for v1 and v2 are not compatible!__
 
