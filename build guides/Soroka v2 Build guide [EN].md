@@ -4,6 +4,7 @@ Any translation help would be appreciated
 
 ### Necessary Tools:
 - A soldering iron with temperature control and a thin cone tip
+
 An example of a suitable soldering tip for installing inserts:
 ![](https://telegra.ph/file/67c95aea2ec2952f8d3aa.png)
 - Two thin metal tweezers, one of them can be replaced with any jumper
