@@ -7,6 +7,7 @@ Any translation help would be appreciated
 
 An example of a suitable soldering tip for installing inserts:
 ![](https://telegra.ph/file/67c95aea2ec2952f8d3aa.png)
+
 - Two thin metal tweezers, one of them can be replaced with any jumper
 - Flux for soldering and solder
 - Copper braid for removing solder (in case of problems with soldering, optional)
@@ -40,18 +41,20 @@ It is necessary to apply a flux on the landing pads of the diodes. Better to go 
 
 **3. Install the controller.**
 The controller must be positioned on the same side as the diodes. The controller buttons should be inside the cutout on the board and look at the front (upper) surface of the board.
-![](https://telegra.ph/file/2915a50b71b93e6455f77.png )
+![](https://telegra.ph/file/2915a50b71b93e6455f77.png)
+
 For smooth and easy installation, use pins. Before placing the controller, it is necessary to apply the flux to the pads on the board and the controller.
 **IMPORTANT NOTE! The pins are used ONLY for alignment, they DO NOT NEED to be soldered.** 
 I install the pins on the bottom and left side and solder the pads on the remaining one. After that, I take out the pins and solder the rest of the controller pads.
 ![](https://telegra.ph/file/da451aaff68b6bac8cfc1.png)
   
+
 **4. Install the encoder and solder the encoder.**
 In the case of a Panasonic encoder, it is necessary to "hook" it to the board, and then solder all the pins.
-![](https://telegra.ph/file/b771e24d885c8826160ce.png )
 A "hook" that must be hooked onto the board
+![](https://telegra.ph/file/b771e24d885c8826160ce.png )
 
-5. Wash off all flux stains from the board.
+**5. Wash off all flux stains from the board.**
 Apply alcohol or cleaner and remove everything with a dry cloth or napkin. In some cases, you can brush off heavy stains with a toothbrush.
 
 **6. Check the PCB after soldering.**
@@ -59,8 +62,10 @@ After the board dries, connect the USB cable. If you didn't upload firmware yet,
 The verification:
 - Launch the VIAL- Go to the Layout tab and set all the desired options
 ![](https://telegra.ph/file/35c18577f3ca3a647ed96.png )
+
 - Go to the Matrix tester tab and click on the Unlock button
 ![](https://telegra.ph/file/015ea209bf08cbb2d3be2.png)
+
 - Use two tweezers to connect the pins of the first two switches in the first row and wait for the unlock progress bar to fill up. 
 - Using tweezers, close the contact pads of all switches. This will make sure that soldering is done without any mistakes.
 - If individual buttons do not work, it is necessary to check the soldering of the corresponding diodes, if the whole row or column does not work, it is necessary to check the soldering of the controller pads.
@@ -71,6 +76,7 @@ Carefully remove excess flux, if any. 
 
 ### Assembling the rest of the keyboard
 **0. Install silicone feet on the bottom of the case**
+
 ![](https://telegra.ph/file/56d6670780c6b335f92a5.png )
 
 **1. Melt the inserts into the seats inside the case**.
@@ -79,20 +85,21 @@ IMPORTANT! The soldering iron must be held perpendicular to the plane of the inn
 
 **2. Melt the inserts into the spacer under the panel.**
 The inserts are located closer to the edges, the holes under them are deeper. Here's the right side:
+
 ![](https://telegra.ph/file/6cb2c28ec447410a2eb9b.png )
-Places to install inserts
+
 
 **3. Glue the magnets into the spacer.**
 I recommend doing everything one at a time, so as not to get confused with the polarity of the magnets, otherwise it will be impossible to get them, the part will be damaged.
-  
+Places to install magnets:
+
 ![](https://telegra.ph/file/6798e671eddfcbcc69285.png )
-Places to install magnets
-  
+
 The sequence is as follows:
 - Squeeze a drop of superglue onto a piece of paper or thick cardboard
 - Use a toothpick to apply a little glue into the magnet hole 
 - Install the magnet and remove excess glue
-Repeat this operation for all spacer magnets.
+- Repeat this operation for all spacer magnets.
 
 **4. Glue the magnets to the lid.**
 It is very important to glue the side. The sequence of actions: 
@@ -101,12 +108,16 @@ It is very important to glue the side. The sequence of actions: 
 - Glue the magnets alternately, as was done for the spacer. A dot from the marker INSIDE the lid.
 
 **5. Screw the spacer to the PCB with screws.** 
+The location of the screws for the spacer:
+
 ![](https://telegra.ph/file/22f273c7771307c592620.png )
-The location of the screws for the spacer
+
 
 **6. Install silicone washers inside the housing seats**
+Places where silicone washers are installed:
+
 ![](https://telegra.ph/file/2b3a4265e1f0d8d9f1eb8.png )
-Places where silicone washers are installed
+
 
 **7. Install the finished PCB inside the case by screwing in the screws.** 
 
