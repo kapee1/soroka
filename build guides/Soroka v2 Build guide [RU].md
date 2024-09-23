@@ -1,8 +1,6 @@
 
 
-![](https://telegra.ph/file/89a3a75c95ad58d755a7c.jpg)
-
-Soroka v2 w/ KAM Blanks
+Soroka v2 Build Guide [RU]
 
 ### Необходимые инструменты и расходники:
 
@@ -175,7 +173,3 @@ _ВАЖНО! Паяльник нужно держать перпендикуля
 **8. Установить крышкечку на магнитах и кейкапы**
 
 ### Готово! 
-
-  
-
-Report content on this page
