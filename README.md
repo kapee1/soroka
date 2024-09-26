@@ -4,6 +4,9 @@
 
 ### Build guide [[EN]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BEN%5D.md) | [[RU]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BRU%5D.md)
 
+
+🚧🚧🚧 Work in progress: [ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum) 🚧🚧🚧
+
 __Parts for v1 and v2 are not compatible!__
 
 ### Main features:
