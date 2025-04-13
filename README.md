@@ -4,8 +4,7 @@
 
 ### Build guide [[EN]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BEN%5D.md) | [[RU]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BRU%5D.md)
 
-
-🚧🚧🚧 Work in progress: [ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum) 🚧🚧🚧
+[ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum)
 
 __Parts for v1 and v2 are not compatible!__
 
@@ -43,4 +42,10 @@ __Parts for v1 and v2 are not compatible!__
 | M2 Inserts 3mm (OD3.2)        | 13  |  
 | Round magnets 3x1 mm          | 8   | 
 
+In case of cover with screws, you don't need spacer and magnets, but you will need:
+
+| Part     | Quantity |
+|----------|----------|
+| M2 x 5 mm Screws                       | 8  |  
+| M2 Brass Standoffs Female-Female 11 mm | 4  |  
 
