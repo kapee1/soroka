@@ -4,8 +4,6 @@
 
 ### Build guide [[EN]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BEN%5D.md) | [[RU]](https://github.com/kapee1/soroka/blob/main/build%20guides/Soroka%20v2%20Build%20guide%20%5BRU%5D.md)
 
-[ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum)
-
 __Parts for v1 and v2 are not compatible!__
 
 ### Main features:
@@ -17,7 +15,7 @@ __Parts for v1 and v2 are not compatible!__
 * Plate also optional. You can build keyboard without a plate to reduce cost.
 * Variable bottom-row with a 3u spacebars support.
 * Customizable magnet panels
-* VIAL/QMK 
+* VIAL/QMK/[ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum)
 
 ### Layout:
 ![image](https://github.com/kapee1/soroka/assets/98476799/303a2640-8ece-4c63-8b4c-6768845c624c)
