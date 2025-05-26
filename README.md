@@ -17,8 +17,11 @@ __Parts for v1 and v2 are not compatible!__
 * Customizable magnet panels
 * VIAL/QMK/[ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum)
 
+* *NEW!* Hotswap PCB (untested, but should be fine)
+
 ### Layout:
-![image](https://github.com/kapee1/soroka/assets/98476799/303a2640-8ece-4c63-8b4c-6768845c624c)
+![keyboard-layout (2)](https://github.com/user-attachments/assets/f78fa71a-8598-459b-90e7-10e8fc8debf0)
+
 
 ### Sizes:
 ![sizes](https://github.com/user-attachments/assets/43c70d04-38ef-4c08-8f5c-f754aee75991)

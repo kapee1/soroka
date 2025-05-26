@@ -1,0 +1,319 @@
+(footprint "MCU_rp2040-zero-tht"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "57000eef-4c86-4883-be0f-39f3b7be9915")
+		(effects
+			(font
+				(size 0.889 0.889)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" "RP2040-Zero"
+		(at 0 -12.2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6f18b4bb-c8ea-4150-b542-0d7bf2160b02")
+		(effects
+			(font
+				(size 0.6096 0.6096)
+				(thickness 0.0762)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e577927c-7f09-4d09-8f96-7ee8fd586ac2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "170f2ad4-c91d-43a2-ba62-4f77fc6f5eac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files)
+	(fp_rect
+		(start -9 -11.75)
+		(end 9 11.75)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "68a1360e-aa61-423e-8e40-7c38e04651e3")
+	)
+	(fp_rect
+		(start -5.3 -11)
+		(end 5.3 8.8)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Eco1.User")
+		(uuid "bacf8e45-9e3a-4bb2-9c7d-e161693e8c62")
+	)
+	(pad "1" thru_hole oval
+		(at 7.62 -10.16 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2c9ccb09-322e-4582-8ea9-4c2625862ea0")
+	)
+	(pad "2" thru_hole oval
+		(at 7.62 -7.62 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cbd7a6b9-ba89-44c1-bcc8-06fa70fe030b")
+	)
+	(pad "3" thru_hole oval
+		(at 7.62 -5.08 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d3217435-6ca9-4a0e-9a6d-296f0e3aac08")
+	)
+	(pad "4" thru_hole oval
+		(at 7.62 -2.54 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "10df5a98-8089-4792-a90e-511c0817cab2")
+	)
+	(pad "5" thru_hole oval
+		(at 7.62 0 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c3cbf109-cc15-44fa-9d15-78d143b314f1")
+	)
+	(pad "6" thru_hole oval
+		(at 7.62 2.54 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7fd249fa-895e-4fdc-ae78-b0bcc309d52c")
+	)
+	(pad "7" thru_hole oval
+		(at 7.62 5.08 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cce982a3-6584-4a97-bafd-2977b8ff0c7b")
+	)
+	(pad "8" thru_hole oval
+		(at 7.62 7.62 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0e95c331-221e-4652-8bc8-a065bbfe9398")
+	)
+	(pad "9" thru_hole oval
+		(at 7.62 10.16 180)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a177fc7a-2617-4b97-b573-0160b2fdf0d5")
+	)
+	(pad "10" thru_hole oval
+		(at 5.08 10.16 90)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "27018e75-7218-41c3-85f2-351389ed62e6")
+	)
+	(pad "11" thru_hole oval
+		(at 2.54 10.16 90)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "82c9cfc7-6cad-484f-9a08-56a763b0cf6a")
+	)
+	(pad "12" thru_hole oval
+		(at 0 10.16 90)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4eff0673-fcbd-48e6-bbc4-ab0b2a5bea34")
+	)
+	(pad "13" thru_hole oval
+		(at -2.54 10.16 90)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9362719c-3769-4b83-93dc-fb814e3d6266")
+	)
+	(pad "14" thru_hole oval
+		(at -5.08 10.16 90)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d520d2c3-c3d8-4916-a9a9-2e72f89e1f84")
+	)
+	(pad "15" thru_hole oval
+		(at -7.62 10.16)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "818b43b1-118d-4fb8-a165-74d7281b9c56")
+	)
+	(pad "16" thru_hole oval
+		(at -7.62 7.62)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d401fe1b-6275-4d8d-ae11-c51fb7625efc")
+	)
+	(pad "17" thru_hole oval
+		(at -7.62 5.08)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "02840859-046a-43b1-99bc-7273c2eff94c")
+	)
+	(pad "18" thru_hole oval
+		(at -7.62 2.54)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5760fd1d-b206-4a4d-99b3-8edb57238b7d")
+	)
+	(pad "19" thru_hole oval
+		(at -7.62 0)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b9cb4b43-c3ff-42df-97b4-9d9b0d04c7b3")
+	)
+	(pad "20" thru_hole oval
+		(at -7.62 -2.54)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f80e0c40-323a-4450-a3e1-8f55a7ca25f1")
+	)
+	(pad "21" thru_hole oval
+		(at -7.62 -5.08)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "29303f27-81cb-4f31-9592-7020471d0330")
+	)
+	(pad "22" thru_hole oval
+		(at -7.62 -7.62)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "871ecffa-9f59-46a6-a128-b90ba2f0c780")
+	)
+	(pad "23" thru_hole oval
+		(at -7.62 -10.16)
+		(size 2.6 1.5)
+		(drill 1
+			(offset -0.55 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ac2bad7c-0af8-4a15-8506-5080b3929105")
+	)
+	(embedded_fonts no)
+	(model "D:/my boards/!Kicad Lib/3D Models/acheron_3D-master/acheron_3D-master/RP2040-ZERO-WAVESHARE without headers.STEP"
+		(offset
+			(xyz 0 0 -2.75)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
