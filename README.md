@@ -16,7 +16,6 @@ __Parts for v1 and v2 are not compatible!__
 * Variable bottom-row with a 3u spacebars support.
 * Customizable magnet panels
 * VIAL/QMK/[ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum)
-
 * *NEW!* Hotswap PCB (untested, but should be fine)
 
 ### Layout:
@@ -26,22 +25,37 @@ __Parts for v1 and v2 are not compatible!__
 ### Sizes:
 ![sizes](https://github.com/user-attachments/assets/43c70d04-38ef-4c08-8f5c-f754aee75991)
 
-## BOM:
+## Hotswap PCB BOM (Be careful, it's still untested!)
 | Part     | Quantity |
 |----------|----------|
-| Soroka PCB                    | 1   | 
+| Soroka PCB (HS)   | 1   | 
+| RP2040-Zero (unsoldered pins) | 1   |
+| Any MX Hotswap Sockets | 52   |
+| BAT54C, SOT-23 Diodes  |  27 | 
+| Panasonic EVQWGD001 (optional) or EC-11 Encoder | 1   |  
+
+## Soldered PCB BOM
+| Part     | Quantity |
+|----------|----------|
+| Soroka PCB (Soledered)   | 1   | 
+| RP2040-Zero (unsoldered pins) | 1   | 
+| 1N4148w SOD-123 Diodes        | 50  | 
+| Panasonic EVQWGD001 (optional) or EC-11 Encoder | 1   |  
+
+## Assembly BOM:
+| Part     | Quantity |
+|----------|----------|
+| Soroka PCB (Soledered or Hotswap)   | 1   | 
 | Soroka Plate (Optional)       | 1   | 
 | Soroka Case                   | 1   | 
 | Soroka Panel                  | 1   | 
 | Soroka Spacer                 | 1   | 
-| RP2040-Zero (unsoldered pins) | 1   | 
-| 1N4148w SOD-123 Diodes        | 50  | 
-| Panasonic EVQWGD001 (optional)| 1   |  
 | Oval feets 22x4x1.5mm         | 4   |  
 | Silicone washers 2x5x1        | 9   |
 | M2 x 4mm Screws               | 13  |  
 | M2 Inserts 3mm (OD3.2)        | 13  |  
 | Round magnets 3x1 mm          | 8   | 
+
 
 In case of cover with screws, you don't need spacer and magnets, but you will need:
 
