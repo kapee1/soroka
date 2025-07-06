@@ -6,6 +6,7 @@
 
 __Parts for v1 and v2 are not compatible!__
 
+
 ### Main features:
 
 * Easy to build. Great for soldering practice.
@@ -16,7 +17,7 @@ __Parts for v1 and v2 are not compatible!__
 * Variable bottom-row with a 3u spacebars support.
 * Customizable magnet panels
 * VIAL/QMK/[ZMK Firmware](https://github.com/aroum/zmk-soroka) by [aroum](https://github.com/aroum)
-* *NEW!* Hotswap PCB (untested, but should be fine)
+* *NEW!* Hotswap PCB (untested, but should be fine). Hotswap PCB uses different diodes. Please check the BOM file at the end of this README file.
 
 ### Layout:
 ![keyboard-layout (2)](https://github.com/user-attachments/assets/f78fa71a-8598-459b-90e7-10e8fc8debf0)
