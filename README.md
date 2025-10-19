@@ -46,7 +46,7 @@ __Parts for v1 and v2 are not compatible!__
 ## Assembly BOM:
 | Part     | Quantity |
 |----------|----------|
-| Soroka PCB (Soledered or Hotswap)   | 1   | 
+| Soroka PCB (Soldered or Hotswap)   | 1   | 
 | Soroka Plate (Optional)       | 1   | 
 | Soroka Case                   | 1   | 
 | Soroka Panel                  | 1   | 
